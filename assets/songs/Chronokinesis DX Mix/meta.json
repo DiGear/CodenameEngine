@@ -1,0 +1,16 @@
+{
+	"beatsPerMeasure": 4,
+	"opponentModeAllowed": false,
+	"coopAllowed": false,
+	"stepsPerBeat": 4,
+	"bpm": 110,
+	"difficulties": [
+		"Standard"
+	],
+	"needsVoices": true,
+	"parsedColor": -8478985,
+	"displayName": "Chronokinesis DX Mix",
+	"icon": "Danny",
+	"name": "Chronokinesis-dx",
+	"color": "#7E9EF7"
+}
